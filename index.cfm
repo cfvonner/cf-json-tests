@@ -13,6 +13,7 @@
 
 		,hexcolor = '350E25'
 		,hexcolor2 = '24093D'
+		,mytest="this is a test"
 
 	};
 
